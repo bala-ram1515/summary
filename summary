@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        p{
+            color:red;
+        }
+    </style>
+    <body>
+        <details>
+            </summary></summary>
+        <img src="./ntr1.jpg"  width="200px">
+        <img src="./ntr2.jpg" width="200px">
+        <img src="./mb.jpg" width="200px" >
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum voluptates ipsam sequi commodi perspiciatis ad tenetur dolores nisi nobis libero! Ipsum officia omnis at minus pariatur praesentium quibusdam ut libero?</p>
+    
+        </details>
+        
+    
+    
+</body>
+</html>
